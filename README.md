@@ -6,7 +6,7 @@
 
 ![SCube](assets/rebuttal_comp_1_crop-1.png)
 
-![SCube](assets/rebuttal_comp_2_crop.png)
+![SCube](assets/rebuttal_comp_3_crop-1.png)
 
 ### Visualization of 3D
 
